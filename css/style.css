@@ -55,7 +55,7 @@ body{
     margin-bottom: 20px;
     position: relative;
     height: 640px;
-    background-image: url(img/01-Картинка-фона.jpg);
+    background-image: url(../img/01-Картинка-фона.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
